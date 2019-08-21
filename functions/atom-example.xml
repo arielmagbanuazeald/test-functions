@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" 
+	xmlns:g="http://base.google.com/ns/1.0">
+	<title>Example Atom Product Feed</title>
+	<link href="http://www.example.com" rel="alternate" type="text/html" />
+	<updated>2006-06-11T18:30:02Z</updated>
+	<author>
+		<name>Zeald</name>
+	</author>
+	<id>tag:example.com,2006-06-11:/support/products</id>
+	<entry>
+		<title>Red Wool sweater</title>
+		<g:id>1ABCD123</g:id>
+		<g:availability>in stock</g:availability>
+		<link href="http://www.example.com/item1-info-page.html" />
+		<summary>Comfortable and soft, this sweater will keep you warm on those cold winter nights.</summary>
+		<updated>2005-10-13T18:30:02Z</updated>
+		<g:image_link>http://www.google.com/images/google_sm.gif</g:image_link>
+		<g:price>25 NZD</g:price>
+		<g:condition>new</g:condition>
+	</entry>
+</feed>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://purl.org/atom/ns#" 
+	xmlns:g="http://base.google.com/ns/1.0" version="0.3">
+	<title>Sample Product Feed</title>
+	<link href="http://www.example.com" rel="alternate" type="text/html" />
+	<modified>2005-10-11T18:30:02Z</modified>
+	<author>
+		<name>Zeald</name>
+	</author>
+	<id>zeald-products</id>
+	<entry>
+		<title>Red Wool Sweater</title>
+		<link href="http://www.example.com/item1-info-page.html" />
+		<summary>Comfortable and soft, this sweater will keep you warm on those cold winter nights.</summary>
+		<g:id>SKU44512825</g:id>
+		<issued>2019-08-21T18:30:02Z</issued>
+		<modified>2019-08-21T18:30:02Z</modified>
+		<g:image_link>https://www.neptuneslinen.co.nz//site/neptunes/images/items/Page-13-Bijou-Bedspread-Set-5.1.jpg</g:image_link>
+		<g:price>25 NZD</g:price>
+		<g:condition>new</g:condition>
+	</entry>
+	<entry>
+		<title>Black Wool Sweater</title>
+		<link href="http://www.example.com/item1-info-page.html" />
+		<summary>Comfortable and soft, this sweater will keep you warm on those cold winter nights.</summary>
+		<g:id>SKU44512830</g:id>
+		<issued>2019-08-21T18:30:02Z</issued>
+		<modified>2019-08-21T18:30:02Z</modified>
+		<g:image_link>https://www.neptuneslinen.co.nz//site/neptunes/images/items/Page-13-Bijou-Bedspread-Set-5.1.jpg</g:image_link>
+		<g:price>30 NZD</g:price>
+		<g:condition>new</g:condition>
+	</entry>
+</feed>
